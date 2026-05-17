@@ -20,7 +20,7 @@ I enjoy building **user-focused systems**, connecting business needs with clean,
 
 ## Tech Stack
 
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite  
+**Frontend:** React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite  
 **Backend:** C#, Node.js, Express, Prisma  
 **Databases:** SQL Server, MySQL, SQLite, PostgreSQL  
 **Tools:** Git, Postman, VS Code, Visual Studio, Bash, PowerShell
