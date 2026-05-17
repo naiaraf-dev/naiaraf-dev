@@ -2,7 +2,7 @@ Hi there! 👋 I'm **Naiara**
 Full-Stack Developer & Functional Analyst
 
 Currently in my final year of the **Software Development Technical Degree (IFTS Nº11)**  
-Working as a **Functional Analyst at Trenes Argentinos**
+Working as a **System Analyst at Trenes Argentinos**
 
 I enjoy building **user-focused systems**, connecting business needs with clean, functional code.
 
